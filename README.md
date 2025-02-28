@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+I am currently working on Cybersecurity Consultant<br>I am currently working on securing enterprise networks, conducting vulnerability assessments, and implementing cybersecurity frameworks to protect businesses from cyber threats. My focus includes penetration testing, risk management, and compliance with industry standards like ISO 27001, NIST, and GDPR.<br><br>I am looking to collaborate on<br>I am looking to collaborate on cybersecurity awareness training, incident response planning, and ethical hacking projects. I’m also open to working with teams on security automation, cloud security strategies, and improving threat detection mechanisms.<br><br>I am looking for help with<br>I am looking for help with advanced threat intelligence, automating security operations, and refining best practices for securing cloud environments like AWS, Azure, and Google Cloud. If you have insights into AI-driven cybersecurity solutions, I’d love to discuss those as well.<br><br>I am currently learning<br>I am currently learning about the latest trends in Zero Trust Architecture, AI in cybersecurity, and blockchain security. I am also enhancing my skills in red teaming, digital forensics, and incident response to stay ahead in the field.<br><br>Ask me about<br>Ask me about ethical hacking, penetration testing, network security, SOC operations, security compliance frameworks, and cyber threat intelligence. I can also share insights on how businesses can strengthen their cybersecurity posture and protect themselves from emerging threats.<br><br>Fun fact<br>Cybercriminals can launch an attack every 39 seconds, and 95% of breaches are caused by human error. Also, the first-ever computer virus, "The Creeper," was created in the early 1970s, and it just displayed the message: "I’M THE CREEPER: CATCH ME IF YOU CAN!"
 
-<!--
-**AbdusSubhanAnalyst/AbdussubhanAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/infosechunters) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/infosechunters) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/infosechunters) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mvsnani8@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=plastic&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=plastic&logo=joomla&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdusSubhanAnalyst&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbdusSubhanAnalyst&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdusSubhanAnalyst&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbdusSubhanAnalyst&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AbdusSubhanAnalyst&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AbdusSubhanAnalyst&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
